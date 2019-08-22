@@ -9,6 +9,8 @@ namespace Lab0JoshuaValey1014416 {
 	using namespace System::Data;
 	using namespace System::Drawing;
 
+	using namespace std;
+
 	/// <summary>
 	/// Resumen de MyForm
 	/// </summary>
@@ -175,15 +177,27 @@ namespace Lab0JoshuaValey1014416 {
 		return resultado;
 	}
 
-	void evaluateHexadecimal(String cadena) {
+	bool evaluateHexadecimal(String cadena) {
+		bool resultado = false;
 
+		return resultado;
 	}
 
 private: System::Void Button1_Click(System::Object^ sender, System::EventArgs^ e) {
+
+	int operador1 = Convert::ToInt32(txtOperando1->Text);
+	int operador2 = Convert::ToInt32(textOperando2->Text);
+
+	lblResultado->Text = "El resultado es: " + suma(operador1, operador2);
+	
+
 }
 private: System::Void Button2_Click(System::Object^ sender, System::EventArgs^ e) {
 
+	int operador1 = Convert::ToInt32(txtOperando1->Text);
+	int operador2 = Convert::ToInt32(textOperando2->Text);
 
+	lblResultado->Text = "El resultado es: " + multiplicacion(operador1, operador2);
 
 }
 };
