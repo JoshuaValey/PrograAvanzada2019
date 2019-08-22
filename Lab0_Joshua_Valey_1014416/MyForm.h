@@ -161,6 +161,24 @@ namespace Lab0JoshuaValey1014416 {
 
 
 	}
+
+
+	int suma(int operador1, int operador2) {
+		int resultado = 0;
+		resultado = operador1 + operador2;
+		return resultado;
+	}
+
+	int multiplicacion(int multiplicando, int multiplicador) {
+		int resultado = 0;
+		resultado = multiplicando * multiplicador;
+		return resultado;
+	}
+
+	void evaluateHexadecimal(String cadena) {
+
+	}
+
 private: System::Void Button1_Click(System::Object^ sender, System::EventArgs^ e) {
 }
 private: System::Void Button2_Click(System::Object^ sender, System::EventArgs^ e) {
