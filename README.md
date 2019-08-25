@@ -6,5 +6,7 @@ Repositorio de los laboratorios y proyectos de la asignatura de programación av
 
 ## Laboratorios Pgrogramación Avanzada (PRACTICA)
 
-[Laboratorio 0 Programación Avanzada sección Práctica](https://gitlab.com/JoshuaValey/lab0_joshua_valey_1014416)
+[Laboratorio 0 "Lenguaje c++" Programación Avanzada sección Práctica](https://gitlab.com/JoshuaValey/lab0_joshua_valey_1014416)
+
+[Laboratorio 1 "Recursividad" Programación Avanzada sección Práctica](https://gitlab.com/JoshuaValey/lab1_joshua_valey_1014416)
 
