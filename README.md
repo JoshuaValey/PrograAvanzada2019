@@ -10,3 +10,8 @@ Repositorio de los laboratorios y proyectos de la asignatura de programación av
 
 [Laboratorio 1 "Recursividad" Programación Avanzada sección Práctica](https://gitlab.com/JoshuaValey/lab1_joshua_valey_1014416)
 
+[Tarea 1 "Recursividad" Programación Avanzada sección Práctica](https://gitlab.com/JoshuaValey/tarea1_joshua_valey_1014416)
+
+[Tarea 2 "Recursividad" Programación Avanzada sección Práctica](https://gitlab.com/JoshuaValey/tarea2_joshua_valey_1014416)
+
+
